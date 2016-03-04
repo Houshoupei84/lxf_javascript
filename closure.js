@@ -18,4 +18,5 @@ function lazy_sum(arr) {
 
  var lzyFun = lazy_sum([1,2,3,4,5]);
  
+ 
  console.log(lzyFun());
